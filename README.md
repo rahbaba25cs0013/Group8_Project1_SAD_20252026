@@ -54,7 +54,7 @@ simplify the campus printing experience for students. It allows students to:
 
 ---
 
-## 🛠️ Tools & Technologies
+## 5. Tools & Technologies
 
 - **Project Management:** GitHub Projects (Kanban Board)
 - **Version Control:** Git & GitHub
@@ -63,7 +63,7 @@ simplify the campus printing experience for students. It allows students to:
 
 ---
 
-## 📋 Phase Deliverables
+## 6. Phase Deliverables
 
 - [x] Phase 1 - Project Proposal and Planning
 - [ ] Phase 2 - System Requirements
@@ -72,7 +72,7 @@ simplify the campus printing experience for students. It allows students to:
 
 ---
 
-## 📎 Repository
+## 7. Repository
 
 - **Course:** SECD2613 System Analysis and Design
 - **Institution:** Universiti Teknologi Malaysia (UTM)
